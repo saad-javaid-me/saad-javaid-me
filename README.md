@@ -1,72 +1,95 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="App Dev GIF"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Saad Javaid</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
+<h3 align="center">Flutter & Android App Developer | API Integration Specialist | UI/UX Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&lines=Passionate+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFC2&center=true&vCenter=true&lines=Building+beautiful+apps;Integrating+powerful+APIs;Delivering+seamless+mobile+experiences" />
 </p>
 
 ---
 
-### 💡 About Me
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: **Next.js SaaS Projects**
-- 🌱 I’m currently learning: **TypeScript, Docker, and CI/CD**
-- 💬 Ask me about: `React`, `Node.js`, `Flutter`, `MySQL`, `PHP`
-- ⚡ Fun fact: I love debugging more than coding sometimes 😄
-- 🧠 Lifelong learner, problem-solver, coffee lover ☕
+- 📱 I specialize in **Flutter & Android app development**
+- 🔗 I integrate RESTful APIs, Firebase, and real-time databases
+- 🧠 I’m currently learning **GetX**, **Riverpod**, and **State Management Best Practices**
+- 💬 Ask me about `Flutter`, `Android`, `Firebase`, `Node APIs`, `Dart`, `Push Notifications`
+- 🎯 Passionate about crafting smooth, scalable, and pixel-perfect UIs
+- 🛠️ I love automating things, exploring APIs, and debugging deeply
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack & Tools
 
-#### Languages:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Frameworks & Libraries:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+#### Languages & Frameworks:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-#### Database & DevOps:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+#### Backend & APIs:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-00599C?style=for-the-badge)
+
+#### Tools & DevOps:
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📱 My App Development Journey
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/239731329-3ea82bfb-e8ff-47cd-bf32-2fb4944785b2.gif" width="700" alt="App dev workflow" />
+</p>
+
+- 🎯 Designed and developed **eCommerce apps**, **POS systems**, and **admin dashboards**
+- 🔧 Integrated real-time chat, push notifications, and payment gateways
+- 🎨 Focus on smooth animations, clean architecture, and responsive design
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad-javaid-me&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saad-javaid-me&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad-javaid-me&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad-javaid-me&theme=tokyonight" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saad-javaid-me&theme=react-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### 🔥 Recent Projects
+### 🚀 Featured Projects
 
-- 🛒 [E-commerce Flutter App](https://github.com/saad-javaid-me/ecommerce-app)
-- 🧾 [Invoice Management System (PHP + MySQL)](https://github.com/saad-javaid-me/invoice-system)
-- 🌐 [React Portfolio Website](https://github.com/saad-javaid-me/portfolio)
+- 📦 [Flutter Ecommerce App](https://github.com/saad-javaid-me/flutter-ecommerce)
+- 📲 [POS Mobile App](https://github.com/saad-javaid-me/flutter-pos-system)
+- 🔐 [Firebase Auth Starter](https://github.com/saad-javaid-me/firebase-auth-flutter)
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact Me
 
 <p align="left">
   <a href="mailto:saad@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/saadjavaid"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/saad-javaid-me"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/saadjavaid"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/saad-javaid-me"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ *Thanks for visiting! Don’t forget to follow and star some of my repos!*  
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saad-javaid-me" alt="Visitors Badge" />
+</p>
+
+<p align="center">
+  🚀 *Thanks for visiting! Let’s build something awesome together.* 🌟
+</p>
