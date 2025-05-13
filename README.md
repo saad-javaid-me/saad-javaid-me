@@ -90,6 +90,7 @@
 <p align="center">
   <a href="mailto:saadrajput684@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/saadjavaid"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~015bcba6aa7efc6710?mp_source=share" target="_blank"> <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
   <a href="https://github.com/saad-javaid-me"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
