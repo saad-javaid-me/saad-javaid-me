@@ -1,70 +1,66 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" alt="App Dev GIF"/>
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="160" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00ffc8">Saad Javaid</span></h1>
-<h3 align="center">🚀 Flutter & Android App Developer | 🔌 API Integration Expert | 🎨 UI/UX Lover</h3>
+<h1 align="center">Hi 👋, I'm Saad Javaid</h1>
+<h3 align="center">🚀 Flutter & Android App Developer | 🔌 API Integration Expert | 🎨 UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFC2&center=true&vCenter=true&lines=Building+beautiful+apps;Integrating+powerful+APIs;Delivering+seamless+mobile+experiences;Learning+something+new+every+day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=Building+mobile+apps+with+Flutter;Integrating+powerful+REST+APIs;Designing+clean+UI%2FUX;Lifelong+learner+%26+debugger" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 I specialize in **Flutter & Android app development**
-- 🌐 I integrate **RESTful APIs**, **Firebase**, and **real-time DBs**
-- 🧠 Currently learning: **Riverpod**, **GetX**, **CI/CD**
-- 📱 Passionate about building scalable, pixel-perfect mobile apps
-- 🧩 Love automating workflows, exploring new tech, and debugging deeply
+- 📱 Flutter & Android dev passionate about crafting beautiful apps  
+- 🔌 Integrating REST APIs, Firebase, and backend systems  
+- 🧠 Learning Riverpod, GetX, and app architecture  
+- 💬 Ask me about: `Flutter`, `Android`, `Firebase`, `Node.js`, `Dart`  
+- ✨ I love solving complex problems & turning ideas into reality  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack (Animated)
 
-#### 🎯 Languages & Frameworks
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-
-#### 🧩 Backend & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/-REST%20API-00599C?style=flat-square)
-
-#### 🛠 Tools & IDEs
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🎯 Skills Progress
+### 🧠 Skills Progress
 
-**Flutter**         ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 85%  
-**Firebase**        ▓▓▓▓▓▓▓▓▓▓░░░░░░ 75%  
-**API Integration** ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%  
-**UI/UX Design**    ▓▓▓▓▓▓▓░░░░░░░░░ 60%
-
+**Flutter** ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 85%  
+**Firebase** ▓▓▓▓▓▓▓▓▓░░░░░░ 75%  
+**API Integration** ▓▓▓▓▓▓▓▓▓▓▓░░░░ 80%  
+**UI/UX Design** ▓▓▓▓▓▓▓░░░░░░░░ 60%
 
 ---
 
-### 📱 App Development Workflow
+### 📰 Latest Blog Posts
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/239731329-3ea82bfb-e8ff-47cd-bf32-2fb4944785b2.gif" width="700" alt="Mobile Dev Workflow GIF" />
-</p>
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace this with a blog feed or remove if you don’t write blogs -->
+- [How to Integrate REST APIs in Flutter like a Pro](https://yourblog.com/flutter-rest-api)
+- [Firebase Auth with Flutter — Full Guide](https://yourblog.com/firebase-auth)
+- [Top Flutter Packages You Must Know in 2025](https://yourblog.com/top-flutter-packages)
+<!-- BLOG-POST-LIST:END -->
+
+> Want to automate with real posts? Connect Dev.to or Medium using GitHub Actions! Just ask for setup.
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saad-javaid-me&theme=onedark&title=Followers,Stars,Commit,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=saad-javaid-me&theme=algolia&margin-w=10&no-frame=true&title=Followers,Stars,Commit,Repositories" />
 </p>
 
 ---
@@ -74,9 +70,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saad-javaid-me&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saad-javaid-me&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=saad-javaid-me&theme=tokyonight&hide_border=true" />
   <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saad-javaid-me&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saad-javaid-me&theme=react-dark" />
 </p>
 
 ---
@@ -84,26 +80,25 @@
 ### 🚀 Featured Projects
 
 - 📦 [Flutter Ecommerce App](https://github.com/saad-javaid-me/flutter-ecommerce)
-- 🧾 [POS System (Flutter + Firebase)](https://github.com/saad-javaid-me/flutter-pos-system)
+- 📲 [POS System (Flutter + Firebase)](https://github.com/saad-javaid-me/flutter-pos-system)
 - 🔐 [Firebase Auth Starter](https://github.com/saad-javaid-me/firebase-auth-flutter)
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <p align="center">
   <a href="mailto:saad@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/saadjavaid"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/saadjavaid"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/saad-javaid-me"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saad-javaid-me" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saad-javaid-me" alt="Visitor Count Badge" />
 </p>
 
 <p align="center">
-  🌟 *Thanks for visiting! Let's build something awesome together.* 🚀
+  🌟 *Thanks for visiting my profile. Let's create something amazing together!* 🚀
 </p>
-
